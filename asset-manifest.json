@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/person-manager/static/css/main.1a51691d.css",
+    "main.js": "/person-manager/static/js/main.241580d5.js",
+    "index.html": "/person-manager/index.html",
+    "main.1a51691d.css.map": "/person-manager/static/css/main.1a51691d.css.map",
+    "main.241580d5.js.map": "/person-manager/static/js/main.241580d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a51691d.css",
+    "static/js/main.241580d5.js"
+  ]
+}
