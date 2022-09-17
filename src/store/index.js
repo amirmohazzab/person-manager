@@ -10,4 +10,3 @@ export const store = createStore(
 //subscribe
 store.subscribe(() => console.log(store.getState()));
 
-// window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
