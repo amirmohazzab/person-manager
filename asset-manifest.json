@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/person-manager/static/css/main.1a51691d.css",
-    "main.js": "/person-manager/static/js/main.241580d5.js",
+    "main.css": "/person-manager/static/css/main.2634fb23.css",
+    "main.js": "/person-manager/static/js/main.8bd53bd5.js",
     "index.html": "/person-manager/index.html",
-    "main.1a51691d.css.map": "/person-manager/static/css/main.1a51691d.css.map",
-    "main.241580d5.js.map": "/person-manager/static/js/main.241580d5.js.map"
+    "main.2634fb23.css.map": "/person-manager/static/css/main.2634fb23.css.map",
+    "main.8bd53bd5.js.map": "/person-manager/static/js/main.8bd53bd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a51691d.css",
-    "static/js/main.241580d5.js"
+    "static/css/main.2634fb23.css",
+    "static/js/main.8bd53bd5.js"
   ]
 }
